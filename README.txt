@@ -13,4 +13,4 @@ Python and Jupyter Notebook
 What calculations and metrics does this Project offer?
 1) Historical returns - 1-Yr, 3-Yr, 5-Yr, etc 
 2) Risk-reward metrics - Standard Deviation for individual and Portfolio, Sharpe Ratio, Treynor ratio, etc.
-3) More to come.
+3) More to come
