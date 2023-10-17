@@ -16,3 +16,4 @@ What calculations and metrics does this Project offer?
 3) More to come
 
 Please watch out this space for more changes coming soon...
+Please reach out to me for contributions on this Project
