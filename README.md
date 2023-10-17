@@ -20,3 +20,5 @@ Please watch out this space for more changes coming soon...
 Please reach out to me for contributions on this Project
 
 Planning to complete this project in another 6 months.
+
+Changes planned include multi asset yields, risk ratios and various metrics to help investors.
